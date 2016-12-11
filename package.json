@@ -1,5 +1,5 @@
 {
-  "name": "socket",
+  "name": "express-react-redux",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
